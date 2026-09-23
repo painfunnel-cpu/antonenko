@@ -1,0 +1,38 @@
+{
+  "build_command": "pnpm run build",
+  "capabilities": [],
+  "dev_command": "pnpm run dev",
+  "env_vars": {
+    "MANUS_WEBDEV_PROJECT_ID": "XusMkdnaw6pFN6eqVBuYvT"
+  },
+  "experiments": null,
+  "git_remote": {
+    "repo_url": "https://7f0548f6b28a1758d9bf7be630d36cb4.artifacts.cloudflare.net/git/prod/XusMkdnaw6pFN6eqVBuYvT.git",
+    "expiration": "2026-09-24T02:48:16.304Z",
+    "token": "art_v2_x_4bec4d6742b0338ab0c356377fcccfe25be55cf2?expires=1790218096",
+    "backend": "GIT_BACKEND_ARTIFACTS"
+  },
+  "name": "violet-bloom-orders",
+  "path": "/home/ubuntu/violet-bloom-orders",
+  "port": 3000,
+  "secrets": {
+    "BUILT_IN_FORGE_API_KEY": "Q36jRg5qp7bv9TVEXx8z94",
+    "BUILT_IN_FORGE_API_URL": "https://forge.manus.ai",
+    "JWT_SECRET": "fJZx7Smv8A9VcibHayc6cm",
+    "OAUTH_SERVER_URL": "https://api.manus.im",
+    "OWNER_NAME": "Иван",
+    "OWNER_OPEN_ID": "VtzeoBaPDTabnFq5p3HafQ",
+    "VITE_ANALYTICS_ENDPOINT": "https://manus-analytics.com",
+    "VITE_ANALYTICS_WEBSITE_ID": "b3e9e1c5-8b5e-49d3-a164-ae04290be4df",
+    "VITE_APP_ID": "XusMkdnaw6pFN6eqVBuYvT",
+    "VITE_APP_LOGO": "https://files.manuscdn.com/user_upload_by_module/web_dev_logo/310519663929958247/FZqnzdmyYZgOetBU.png",
+    "VITE_APP_TITLE": "Violet Bloom — заказы букетов",
+    "VITE_FRONTEND_FORGE_API_KEY": "7CTJGdHz7eYWvs376EjtvR",
+    "VITE_FRONTEND_FORGE_API_URL": "https://forge.manus.ai",
+    "VITE_OAUTH_PORTAL_URL": "https://manus.im",
+    "VITE_SUPABASE_ANON_KEY": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InJxdXdrcWNvZGplbXdtbGZyYmpqIiwicm9sZSI6ImFub24iLCJpYXQiOjE3OTAxMjIxMzQsImV4cCI6MjEwNTY5ODEzNH0.ZMIdPAo_8GcBvqRaqo06EBK6sSg4gg_eIDjFEvqeFfU",
+    "VITE_SUPABASE_URL": "https://rquwkqcodjemwmlfrbjj.supabase.co"
+  },
+  "template_id": "web-static",
+  "test_command": "pnpm test"
+}
